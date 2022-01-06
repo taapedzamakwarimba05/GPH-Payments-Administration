@@ -1,0 +1,28 @@
+c:\users\fibertech\documents\visual studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\bin\Debug\GPH Payments Administration.exe.config
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\bin\Debug\GPH Payments Administration.exe
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\bin\Debug\GPH Payments Administration.pdb
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\bin\Debug\GPH Payments Administration.xml
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.FrmLogin.resources
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.Switchboard.resources
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.WelcomeFrm.resources
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.Resources.resources
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH Payments Administration.vbproj.GenerateResource.Cache
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH Payments Administration.exe
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH Payments Administration.xml
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH Payments Administration.pdb
+C:\Users\Fibertech\Documents\Visual Studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.FrmExit.resources
+C:\Users\Fibertech\documents\visual studio 2012\Projects\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.Frm_AdvncSrch.resources
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\bin\Debug\GPH Payments Administration.exe.config
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH Payments Administration.exe
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH Payments Administration.xml
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH Payments Administration.pdb
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\bin\Debug\GPH Payments Administration.exe
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\bin\Debug\GPH Payments Administration.pdb
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\bin\Debug\GPH Payments Administration.xml
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.FrmExit.resources
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.FrmLogin.resources
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.Frm_AdvncSrch.resources
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.Switchboard.resources
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.WelcomeFrm.resources
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH_Payments_Administration.Resources.resources
+E:\Softwares\GPH Payments Administration\GPH Payments Administration\obj\Debug\GPH Payments Administration.vbproj.GenerateResource.Cache
